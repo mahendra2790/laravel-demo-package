@@ -1,0 +1,20 @@
+{
+    "name": "mahendra/count",
+    "description": "Pass table name and get the count",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Mahendra Geete",
+            "email": "mahendrag@neuronsolutions.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "Illuminate/support": "~5"
+    },
+    "autoload": {
+    "psr-4": {
+            "Mahendra\\Count\\": "src/"
+        }
+    }
+}
