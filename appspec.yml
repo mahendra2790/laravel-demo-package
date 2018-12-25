@@ -23,9 +23,9 @@ os: linux
 #   "files" section altogether. A blank or incomplete "files" section
 #   may cause associated deployments to fail.
 
-#files:
-#  - source: 
-#    destination:
+files:
+  - source: /mahendra
+#    destination: /var/www/html
 #  - source:
 #    destination:
 
