@@ -24,7 +24,7 @@ os: linux
 #   may cause associated deployments to fail.
 
 files:
-  - source: /mahendra
+  - source: /
     destination: /var/www/html
 #  - source:
 #    destination:
