@@ -39,7 +39,7 @@ files:
 #   then remove the 
 #   "permissions" section altogether. A blank or incomplete "permissions"
 #   section may cause associated deployments to fail.
-
+overwrite: yes/skip/fail
 #permissions:
 #  - object:
 #    pattern:
