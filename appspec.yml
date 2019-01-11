@@ -38,7 +38,7 @@ files:
 # If you are deploying to Windows Server instances,
 #   then remove the 
 #   "permissions" section altogether. A blank or incomplete "permissions"
-#   section may cause associated deployments to fail.
+#   section may cause associated deployments to fail...
 overwrite: yes/skip/fail
 #permissions:
 #  - object:
